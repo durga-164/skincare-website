@@ -1,4 +1,4 @@
-## Skincare- App
+## Skinstore- App
 ---
 <p>
   This website was developed using netlify from scratch with html,CSS,Javascript

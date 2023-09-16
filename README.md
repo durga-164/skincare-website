@@ -1,7 +1,7 @@
-## Skinstone- App
+## Skincare- App
 ---
 <p>
-This Is Website is an International Eccomers Platform . You May Buy Prducts And You Can Cosmetins .This Is Collabrative  Project Build in 5 days
+  This website was developed using netlify from scratch with html,CSS,Javascript
 </p>
 
 * [Click Here](https://elegant-sprite-192e51.netlify.app/ "Movie App") to view the deployed website.
